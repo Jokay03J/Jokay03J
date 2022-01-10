@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Jokay03J
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there 👋
+<img src="https://github-readme-stats.vercel.app/api?username=jokay03J&theme=dark&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokay03J&theme=radical&layout=compact">
 
-<!---
-Jokay03J/Jokay03J is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### I use
+<a href="https://nodejs.org/" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/></a>
+<a href="https://developer.mozilla.org/pl/docs/Web/JavaScript" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
+ 
